@@ -1,0 +1,241 @@
+feature_extraction_method,ngram_range,lemmatization,annotator,model,f1_score
+bow,"(1, 1)",True,final,logistic regression,0.8783659544895975
+bow,"(1, 1)",True,final,multinomial naive bayes,0.8429410006823922
+bow,"(1, 1)",True,final,support vector machine,0.8568457652443875
+bow,"(1, 1)",True,final,random forest,0.870077158580708
+bow,"(1, 1)",True,final,knn,0.8450949042838027
+bow,"(1, 1)",True,all,logistic regression,0.867650075652945
+bow,"(1, 1)",True,all,multinomial naive bayes,0.8314084719516294
+bow,"(1, 1)",True,all,support vector machine,0.8444679335114571
+bow,"(1, 1)",True,all,random forest,0.8558773841546928
+bow,"(1, 1)",True,all,knn,0.8315660731989947
+bow,"(1, 1)",False,final,logistic regression,0.869352688835776
+bow,"(1, 1)",False,final,multinomial naive bayes,0.8456102047153391
+bow,"(1, 1)",False,final,support vector machine,0.8519986042662049
+bow,"(1, 1)",False,final,random forest,0.8634038527055075
+bow,"(1, 1)",False,final,knn,0.8407178753746086
+bow,"(1, 1)",False,all,logistic regression,0.8573663640713344
+bow,"(1, 1)",False,all,multinomial naive bayes,0.833361943748252
+bow,"(1, 1)",False,all,support vector machine,0.8389100292141615
+bow,"(1, 1)",False,all,random forest,0.8528488660348597
+bow,"(1, 1)",False,all,knn,0.8267400526781348
+bow,"(1, 2)",True,final,logistic regression,0.8746680536756215
+bow,"(1, 2)",True,final,multinomial naive bayes,0.8459875985849897
+bow,"(1, 2)",True,final,support vector machine,0.8494437094330718
+bow,"(1, 2)",True,final,random forest,0.854982281552884
+bow,"(1, 2)",True,final,knn,0.8396919824100086
+bow,"(1, 2)",True,all,logistic regression,0.8635658194936406
+bow,"(1, 2)",True,all,multinomial naive bayes,0.8329523190408569
+bow,"(1, 2)",True,all,support vector machine,0.8357298018066895
+bow,"(1, 2)",True,all,random forest,0.8484461284584821
+bow,"(1, 2)",True,all,knn,0.8257145111431416
+bow,"(1, 2)",False,final,logistic regression,0.8626336059325647
+bow,"(1, 2)",False,final,multinomial naive bayes,0.8304818661569056
+bow,"(1, 2)",False,final,support vector machine,0.8449181867519451
+bow,"(1, 2)",False,final,random forest,0.8555293720373696
+bow,"(1, 2)",False,final,knn,0.8382534857726086
+bow,"(1, 2)",False,all,logistic regression,0.8526566027548723
+bow,"(1, 2)",False,all,multinomial naive bayes,0.8236322383951209
+bow,"(1, 2)",False,all,support vector machine,0.8306453919447655
+bow,"(1, 2)",False,all,random forest,0.8472871244225187
+bow,"(1, 2)",False,all,knn,0.8242776493215525
+bow,"(1, 3)",True,final,logistic regression,0.8702297842896746
+bow,"(1, 3)",True,final,multinomial naive bayes,0.8438692854453161
+bow,"(1, 3)",True,final,support vector machine,0.8445832070674882
+bow,"(1, 3)",True,final,random forest,0.8531967116690536
+bow,"(1, 3)",True,final,knn,0.8383911565836305
+bow,"(1, 3)",True,all,logistic regression,0.860631010358628
+bow,"(1, 3)",True,all,multinomial naive bayes,0.8324329361179651
+bow,"(1, 3)",True,all,support vector machine,0.8308856988675399
+bow,"(1, 3)",True,all,random forest,0.8439768564578534
+bow,"(1, 3)",True,all,knn,0.8244678034857524
+bow,"(1, 3)",False,final,logistic regression,0.8578982498200659
+bow,"(1, 3)",False,final,multinomial naive bayes,0.7699586466551637
+bow,"(1, 3)",False,final,support vector machine,0.8424230075512877
+bow,"(1, 3)",False,final,random forest,0.8533236261752157
+bow,"(1, 3)",False,final,knn,0.8380859215646309
+bow,"(1, 3)",False,all,logistic regression,0.8480663585130209
+bow,"(1, 3)",False,all,multinomial naive bayes,0.7634281871935854
+bow,"(1, 3)",False,all,support vector machine,0.8286605242860723
+bow,"(1, 3)",False,all,random forest,0.8449569239522539
+bow,"(1, 3)",False,all,knn,0.824110255925158
+bow,"(2, 2)",True,final,logistic regression,0.847902850210297
+bow,"(2, 2)",True,final,multinomial naive bayes,0.6707392470007757
+bow,"(2, 2)",True,final,support vector machine,0.84028667650472
+bow,"(2, 2)",True,final,random forest,0.849761160818043
+bow,"(2, 2)",True,final,knn,0.8377795090761531
+bow,"(2, 2)",True,all,logistic regression,0.833858406899791
+bow,"(2, 2)",True,all,multinomial naive bayes,0.6643031287627436
+bow,"(2, 2)",True,all,support vector machine,0.8263081847253709
+bow,"(2, 2)",True,all,random forest,0.8358603147028218
+bow,"(2, 2)",True,all,knn,0.8238042931266506
+bow,"(2, 2)",False,final,logistic regression,0.8458375543826628
+bow,"(2, 2)",False,final,multinomial naive bayes,0.5851008221559848
+bow,"(2, 2)",False,final,support vector machine,0.8400538097120214
+bow,"(2, 2)",False,final,random forest,0.84777238148059
+bow,"(2, 2)",False,final,knn,0.8377795090761531
+bow,"(2, 2)",False,all,logistic regression,0.8323122136728733
+bow,"(2, 2)",False,all,multinomial naive bayes,0.5813265320588328
+bow,"(2, 2)",False,all,support vector machine,0.8260755432971906
+bow,"(2, 2)",False,all,random forest,0.8338050260413515
+bow,"(2, 2)",False,all,knn,0.8238042931266506
+bow,"(2, 3)",True,final,logistic regression,0.8457933199173198
+bow,"(2, 3)",True,final,multinomial naive bayes,0.4252446135646738
+bow,"(2, 3)",True,final,support vector machine,0.8381737968631507
+bow,"(2, 3)",True,final,random forest,0.848641250996577
+bow,"(2, 3)",True,final,knn,0.837229602818073
+bow,"(2, 3)",True,all,logistic regression,0.8317481565719825
+bow,"(2, 3)",True,all,multinomial naive bayes,0.4227929968983748
+bow,"(2, 3)",True,all,support vector machine,0.8241983977103162
+bow,"(2, 3)",True,all,random forest,0.8342443044176541
+bow,"(2, 3)",True,all,knn,0.8232552774939499
+bow,"(2, 3)",False,final,logistic regression,0.843423728253356
+bow,"(2, 3)",False,final,multinomial naive bayes,0.3389418706389001
+bow,"(2, 3)",False,final,support vector machine,0.8381871118505608
+bow,"(2, 3)",False,final,random forest,0.8474035332765223
+bow,"(2, 3)",False,final,knn,0.8369190003633531
+bow,"(2, 3)",False,all,logistic regression,0.8293801586745895
+bow,"(2, 3)",False,all,multinomial naive bayes,0.3375300245746414
+bow,"(2, 3)",False,all,support vector machine,0.8242122078054471
+bow,"(2, 3)",False,all,random forest,0.8340158371791088
+bow,"(2, 3)",False,all,knn,0.822945210648131
+bow,"(3, 3)",True,final,logistic regression,0.8400433571143999
+bow,"(3, 3)",True,final,multinomial naive bayes,0.5661018948793203
+bow,"(3, 3)",True,final,support vector machine,0.8366240675157836
+bow,"(3, 3)",True,final,random forest,0.8445317389491291
+bow,"(3, 3)",True,final,knn,0.8366808767726063
+bow,"(3, 3)",True,all,logistic regression,0.8260005108537057
+bow,"(3, 3)",True,all,multinomial naive bayes,0.5618286957972781
+bow,"(3, 3)",True,all,support vector machine,0.822652032932428
+bow,"(3, 3)",True,all,random forest,0.8306840896917935
+bow,"(3, 3)",True,all,knn,0.8227081885083831
+bow,"(3, 3)",False,final,logistic regression,0.8387814158517665
+bow,"(3, 3)",False,final,multinomial naive bayes,0.5445050990439873
+bow,"(3, 3)",False,final,support vector machine,0.8363731570350513
+bow,"(3, 3)",False,final,random forest,0.8430071800677517
+bow,"(3, 3)",False,final,knn,0.8366808767726063
+bow,"(3, 3)",False,all,logistic regression,0.8247406089869204
+bow,"(3, 3)",False,all,multinomial naive bayes,0.5412416762616016
+bow,"(3, 3)",False,all,support vector machine,0.8224017184242705
+bow,"(3, 3)",False,all,random forest,0.8289847654411738
+bow,"(3, 3)",False,all,knn,0.8227081885083831
+tfidf,"(1, 1)",True,final,logistic regression,0.8612660368968185
+tfidf,"(1, 1)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 1)",True,final,support vector machine,0.8564978524315137
+tfidf,"(1, 1)",True,final,random forest,0.8622261046765004
+tfidf,"(1, 1)",True,final,knn,0.8406177449203492
+tfidf,"(1, 1)",True,all,logistic regression,0.8487460012799325
+tfidf,"(1, 1)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 1)",True,all,support vector machine,0.8445242178713999
+tfidf,"(1, 1)",True,all,random forest,0.8497347146095104
+tfidf,"(1, 1)",True,all,knn,0.8266385994101068
+tfidf,"(1, 1)",False,final,logistic regression,0.8488007960981688
+tfidf,"(1, 1)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 1)",False,final,support vector machine,0.8484363824465455
+tfidf,"(1, 1)",False,final,random forest,0.8622199357386533
+tfidf,"(1, 1)",False,final,knn,0.8383378630461149
+tfidf,"(1, 1)",False,all,logistic regression,0.8354030544441747
+tfidf,"(1, 1)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 1)",False,all,support vector machine,0.8347272518919038
+tfidf,"(1, 1)",False,all,random forest,0.8475959862513485
+tfidf,"(1, 1)",False,all,knn,0.8243623536081621
+tfidf,"(1, 2)",True,final,logistic regression,0.8505836962898009
+tfidf,"(1, 2)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 2)",True,final,support vector machine,0.8485207852638625
+tfidf,"(1, 2)",True,final,random forest,0.8558599729820516
+tfidf,"(1, 2)",True,final,knn,0.838100338933911
+tfidf,"(1, 2)",True,all,logistic regression,0.8367789297854661
+tfidf,"(1, 2)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 2)",True,all,support vector machine,0.8350765365035332
+tfidf,"(1, 2)",True,all,random forest,0.8438893344845113
+tfidf,"(1, 2)",True,all,knn,0.8241251487388025
+tfidf,"(1, 2)",False,final,logistic regression,0.8447657217665587
+tfidf,"(1, 2)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 2)",False,final,support vector machine,0.8430242617319684
+tfidf,"(1, 2)",False,final,random forest,0.8518461564741737
+tfidf,"(1, 2)",False,final,knn,0.8377250604226355
+tfidf,"(1, 2)",False,all,logistic regression,0.8307848566387881
+tfidf,"(1, 2)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 2)",False,all,support vector machine,0.829043942932191
+tfidf,"(1, 2)",False,all,random forest,0.8419853896417764
+tfidf,"(1, 2)",False,all,knn,0.8237504497183357
+tfidf,"(1, 3)",True,final,logistic regression,0.8454831923366075
+tfidf,"(1, 3)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 3)",True,final,support vector machine,0.8422186049171752
+tfidf,"(1, 3)",True,final,random forest,0.8517056215159402
+tfidf,"(1, 3)",True,final,knn,0.8377927545117239
+tfidf,"(1, 3)",True,all,logistic regression,0.8320582887442821
+tfidf,"(1, 3)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 3)",True,all,support vector machine,0.8288196837961407
+tfidf,"(1, 3)",True,all,random forest,0.836749272288795
+tfidf,"(1, 3)",True,all,knn,0.8238180375084709
+tfidf,"(1, 3)",False,final,logistic regression,0.8412778521674211
+tfidf,"(1, 3)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(1, 3)",False,final,support vector machine,0.8410661191543575
+tfidf,"(1, 3)",False,final,random forest,0.8493473549488448
+tfidf,"(1, 3)",False,final,knn,0.8377927545117239
+tfidf,"(1, 3)",False,all,logistic regression,0.8275927842423637
+tfidf,"(1, 3)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(1, 3)",False,all,support vector machine,0.8270872158282413
+tfidf,"(1, 3)",False,all,random forest,0.8390933487335402
+tfidf,"(1, 3)",False,all,knn,0.8238180375084709
+tfidf,"(2, 2)",True,final,logistic regression,0.8397777667041438
+tfidf,"(2, 2)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(2, 2)",True,final,support vector machine,0.8407683415400364
+tfidf,"(2, 2)",True,final,random forest,0.8497241373421845
+tfidf,"(2, 2)",True,final,knn,0.8377927545117239
+tfidf,"(2, 2)",True,all,logistic regression,0.8258006018399042
+tfidf,"(2, 2)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(2, 2)",True,all,support vector machine,0.8267897169011711
+tfidf,"(2, 2)",True,all,random forest,0.8355794054918622
+tfidf,"(2, 2)",True,all,knn,0.8238180375084709
+tfidf,"(2, 2)",False,final,logistic regression,0.839549439965019
+tfidf,"(2, 2)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(2, 2)",False,final,support vector machine,0.8398682252243731
+tfidf,"(2, 2)",False,final,random forest,0.8475629487214055
+tfidf,"(2, 2)",False,final,knn,0.8377927545117239
+tfidf,"(2, 2)",False,all,logistic regression,0.8255724145549196
+tfidf,"(2, 2)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(2, 2)",False,all,support vector machine,0.8258905681404984
+tfidf,"(2, 2)",False,all,random forest,0.8324090923393254
+tfidf,"(2, 2)",False,all,knn,0.8238180375084709
+tfidf,"(2, 3)",True,final,logistic regression,0.8389459671914407
+tfidf,"(2, 3)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(2, 3)",True,final,support vector machine,0.8389558634045892
+tfidf,"(2, 3)",True,final,random forest,0.8476276710743095
+tfidf,"(2, 3)",True,final,knn,0.8371848854719874
+tfidf,"(2, 3)",True,all,logistic regression,0.8249696537570351
+tfidf,"(2, 3)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(2, 3)",True,all,support vector machine,0.8249793648499292
+tfidf,"(2, 3)",True,all,random forest,0.8332673453017265
+tfidf,"(2, 3)",True,all,knn,0.8232117347539588
+tfidf,"(2, 3)",False,final,logistic regression,0.8383378630461149
+tfidf,"(2, 3)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(2, 3)",False,final,support vector machine,0.8387200923595153
+tfidf,"(2, 3)",False,final,random forest,0.846110933721476
+tfidf,"(2, 3)",False,final,knn,0.8372513878865598
+tfidf,"(2, 3)",False,all,logistic regression,0.8243623536081621
+tfidf,"(2, 3)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(2, 3)",False,all,support vector machine,0.8247438778831426
+tfidf,"(2, 3)",False,all,random forest,0.8320012206604924
+tfidf,"(2, 3)",False,all,knn,0.8232781539438974
+tfidf,"(3, 3)",True,final,logistic regression,0.8372513878865598
+tfidf,"(3, 3)",True,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(3, 3)",True,final,support vector machine,0.8378737767733782
+tfidf,"(3, 3)",True,final,random forest,0.8436709845610215
+tfidf,"(3, 3)",True,final,knn,0.8372513878865598
+tfidf,"(3, 3)",True,all,logistic regression,0.8232781539438974
+tfidf,"(3, 3)",True,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(3, 3)",True,all,support vector machine,0.8238994478340876
+tfidf,"(3, 3)",True,all,random forest,0.8298443794014756
+tfidf,"(3, 3)",True,all,knn,0.8232781539438974
+tfidf,"(3, 3)",False,final,logistic regression,0.8372513878865598
+tfidf,"(3, 3)",False,final,multinomial naive bayes,0.8363731570350513
+tfidf,"(3, 3)",False,final,support vector machine,0.8378737767733782
+tfidf,"(3, 3)",False,final,random forest,0.8420508685051157
+tfidf,"(3, 3)",False,final,knn,0.8372513878865598
+tfidf,"(3, 3)",False,all,logistic regression,0.8232781539438974
+tfidf,"(3, 3)",False,all,multinomial naive bayes,0.8224017184242705
+tfidf,"(3, 3)",False,all,support vector machine,0.8238994478340876
+tfidf,"(3, 3)",False,all,random forest,0.8280075371087825
+tfidf,"(3, 3)",False,all,knn,0.8232781539438974
